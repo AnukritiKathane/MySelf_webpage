@@ -1,0 +1,30 @@
+body{
+
+  background-color:#009DAE;
+}
+
+.top{
+  height:200px;
+  width:200px;
+
+  padding:20px;
+  background-color: #E4F9F5;
+  border:solid 10px;
+}
+.mid{
+  height:200px;
+  width:200px;
+  padding:10px;
+  background-color:pink;
+  margin-left:260px;
+  border:solid 10px;
+
+}
+.low{
+  height:200px;
+  width:200px;
+  background-color:lightblue;
+ padding:10px;
+  border: solid 10px;
+  margin-left: 480px;
+}
